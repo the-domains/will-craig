@@ -6,9 +6,9 @@ color:
   saturation: 0.6743264123797417
   rhythmicContrast: 0.12364604021422565
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Will Craig
